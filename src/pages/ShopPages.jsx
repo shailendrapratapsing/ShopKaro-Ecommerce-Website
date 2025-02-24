@@ -78,6 +78,7 @@ console.log(data)
     
   
   return (
+    
     <>
     <HeroSection title="Shop" />
       <div className="container-fluid">
